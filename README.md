@@ -79,6 +79,7 @@ My name's Gabriel Henrique Lourenço Dias. I'm 19 years old and I'm from the cou
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=gabrlou&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
   />
+  </p>
 
   <img 
     align="left" 
