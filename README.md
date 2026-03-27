@@ -72,7 +72,6 @@ My name's Gabriel Henrique Lourenço Dias. I'm 19 years old and I'm from the cou
 
 ### 📊 GitHub Stats
 
-<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
