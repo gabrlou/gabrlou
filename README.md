@@ -2,7 +2,7 @@
 
 **`Software Engineering Student`**
 
-My name's Gabriel Henrique Lourenço Dias. I'm 19 years old and I'm from the countryside of Goiás, Brazil. I'm currently a Software Engineering student at the Federal University of Goiás (UFG). I'm interested in understanding how technologies work and how they can be transformed into useful solutions. This space will soon be used to share my learnings, experiences, and projects throughout my journey in software development. I also have a LinkedIn profile: "[Gabriel Lourenço](https://www.linkedin.com/in/gabriel-louren%C3%A7o-3164533ab/)", where I intend to document my growth and professional journey in the technology field.
+My name's Gabriel Henrique Lourenço Dias. I'm 19 years old and I'm from the countryside of Goiás, Brazil. I'm currently a Software Engineering student at the Federal University of Goiás (UFG). I'm interested in understanding how technologies work and how they can be transformed into useful solutions. This space will soon be used to share my learnings, experiences, and projects throughout my journey in software development. I also have a LinkedIn profile: "[Gabriel H. Lourenço Dias](https://www.linkedin.com/in/gabrlou/)", where I intend to document my growth and professional journey in the technology field.
 
 <p align="left">
      </a>
@@ -13,7 +13,7 @@ My name's Gabriel Henrique Lourenço Dias. I'm 19 years old and I'm from the cou
             src="https://custom-icon-badges.demolab.com/github/followers/gabrlou?color=0A2540&labelColor=001F3F&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
         </a> 
-    <a href="https://www.linkedin.com/in/gabriel-louren%C3%A7o-3164533ab/" target="_blank">
+    <a href="https://www.linkedin.com/in/gabrlou/" target="_blank">
         <img
             alt="LinkedIn"
             title="My LinkedIn"
