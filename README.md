@@ -2,7 +2,7 @@
 
 **`Software Engineering Student`**
 
-My name's Gabriel Henrique Lourenço Dias. I'm 19 years old and I'm from the countryside of Goiás, Brazil. I'm currently a Software Engineering student at the Federal University of Goiás (UFG). I'm interested in understanding how technologies work and how they can be transformed into useful solutions. This space will soon be used to share my learnings, experiences, and projects throughout my journey in software development. I also have a LinkedIn profile: "[Gabriel H. Lourenço Dias](https://www.linkedin.com/in/gabrlou/)", where I intend to document my growth and professional journey in the technology field.
+Hi! My name is Gabriel Lourenço, I’m 19 years old, and I’m from the countryside of Goiás, Brazil. I’m currently studying Software Engineering at the Federal University of Goiás (UFG). I’ve just started coding and enjoy experimenting with ideas—sometimes stumbling upon interesting bugs along the way. This space will be used to share my learnings, experiences, and projects as I progress on my journey in software development. You can also follow my professional journey on "[LinkedIn](https://www.linkedin.com/in/gabrlou/)", where I document my growth and experiences in the technology field.
 
 <p align="left" style="display:flex; gap:10px; flex-wrap:wrap;">
     <a href="https://github.com/gabrlou?tab=followers" style="outline:none;">
