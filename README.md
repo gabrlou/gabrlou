@@ -70,6 +70,7 @@ My name's Gabriel Henrique Lourenço Dias. I'm 19 years old and I'm from the cou
 <br/>
 <br/>
 
+<!-- API Offline
 ### 📊 GitHub Stats
 
 <img 
@@ -88,3 +89,4 @@ My name's Gabriel Henrique Lourenço Dias. I'm 19 years old and I'm from the cou
 />
 
 <br clear="both"/>
+-->
