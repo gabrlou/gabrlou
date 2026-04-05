@@ -4,36 +4,35 @@
 
 My name's Gabriel Henrique Lourenço Dias. I'm 19 years old and I'm from the countryside of Goiás, Brazil. I'm currently a Software Engineering student at the Federal University of Goiás (UFG). I'm interested in understanding how technologies work and how they can be transformed into useful solutions. This space will soon be used to share my learnings, experiences, and projects throughout my journey in software development. I also have a LinkedIn profile: "[Gabriel H. Lourenço Dias](https://www.linkedin.com/in/gabrlou/)", where I intend to document my growth and professional journey in the technology field.
 
-<p align="left">
-     </a>
-     <a href="https://github.com/gabrlou?tab=followers">
+<p align="left" style="display:flex; gap:10px; flex-wrap:wrap;">
+    <a href="https://github.com/gabrlou?tab=followers" style="outline:none;">
         <img 
             alt="Followers" 
             title="Follow me on GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/gabrlou?color=0A2540&labelColor=001F3F&style=for-the-badge&logo=github&label=Followers&logoColor=white"
         />
-        </a> 
-    <a href="https://www.linkedin.com/in/gabrlou/" target="_blank">
+    </a> 
+    <a href="https://www.linkedin.com/in/gabrlou/" target="_blank" style="outline:none;">
         <img
             alt="LinkedIn"
             title="My LinkedIn"
             src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-    />
-</a>
-    <a href="mailto:gabriellourenco@discente.ufg.br">
+        />
+    </a>
+    <a href="mailto:gabriellourenco@discente.ufg.br" style="outline:none;">
         <img 
             alt="Contact me"
             title="Contact me"
             src="https://custom-icon-badges.demolab.com/badge/email-E61B23?style=for-the-badge&logo=mail&logoColor=white"
-         />
-        </a>
-    <a href="https://github.com/gabrlou?tab=repositories&sort=stargazers">
+        />
+    </a>
+    <a href="https://github.com/gabrlou?tab=repositories&sort=stargazers" style="outline:none;">
         <img 
             alt="Total Stars" 
             title="GitHub Stars" 
             src="https://custom-icon-badges.demolab.com/github/stars/gabrlou?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
         />
-        </a>
+    </a>
 </p>
 
 ---
