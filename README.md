@@ -1,91 +1,45 @@
-# 👨‍💻 Gabriel Lourenço
+<div align="center">
 
-**`Software Engineering Student`**
+<img src="./ascii.svg" width="460" alt="Gabriel Lourenço"/>
 
-Hi! My name is Gabriel Lourenço, I’m 19 years old, and I’m from the countryside of Goiás, Brazil. I’m currently studying Software Engineering at the Federal University of Goiás (UFG). I’ve just started coding and enjoy experimenting with ideas — sometimes stumbling upon interesting bugs along the way. This space will be used to share my learnings, experiences, and projects as I progress on my journey in software development. You can also follow my professional journey on [LinkedIn](https://www.linkedin.com/in/gabrlou/), where I document my growth and experiences in the technology field.
+<img src="./stats.svg" width="620" alt="Contributions in the last year"/>
 
-<p align="left" style="display:flex; gap:10px; flex-wrap:wrap;">
-    <a href="https://github.com/gabrlou?tab=followers" style="outline:none;">
-        <img 
-            alt="Followers" 
-            title="Follow me on GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/gabrlou?color=0A2540&labelColor=001F3F&style=for-the-badge&logo=github&label=Followers&logoColor=white"
-        />
-    </a> 
-    <a href="https://www.linkedin.com/in/gabrlou/" target="_blank" style="outline:none;">
-        <img
-            alt="LinkedIn"
-            title="My LinkedIn"
-            src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-    <a href="mailto:gabriellourenco@discente.ufg.br" style="outline:none;">
-        <img 
-            alt="Contact me"
-            title="Contact me"
-            src="https://custom-icon-badges.demolab.com/badge/email-E61B23?style=for-the-badge&logo=mail&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/gabrlou?tab=repositories&sort=stargazers" style="outline:none;">
-        <img 
-            alt="Total Stars" 
-            title="GitHub Stars" 
-            src="https://custom-icon-badges.demolab.com/github/stars/gabrlou?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=stars"
-        />
-    </a>
-</p>
+</div>
 
----
+<pre>
+gabrlou@github:~$ whoami
+Software engineering student at the Federal University of Goiás (UFG), Brazil.
 
-### 🤖 Languages and Tools
+gabrlou@github:~$ cat story.txt
+I grew up far from the tech world and got in through pure curiosity. Now I
+spend my days learning to make software that feels good to use. This is where
+my experiments, bugs and notes land; the full journey is on
+<a href="https://www.linkedin.com/in/gabrlou/">linkedin</a>.
 
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
+gabrlou@github:~$ echo $STACK
+python · golang · c | html · css | git · postgres
 
-<img 
-    align="left" 
-    alt="Go" 
-    title="Go"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" 
-/>
+gabrlou@github:~$ cat links.txt
+instagram  <a href="https://www.instagram.com/gabrlou/">gabrlou</a>
+linkedin   <a href="https://www.linkedin.com/in/gabrlou/">in/gabrlou</a>
+e-mail     <a href="mailto:gabriellourenco@inf.ufg.br">gabriellourenco@inf.ufg.br</a>
+</pre>
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+<img src="./streak.svg" width="620" alt="Current and longest streak"/>
 
-<br/>
-<br/>
+<img src="./langs.svg" width="620" alt="Top languages by bytes and by repo"/>
 
-<!-- API Offline
-### 📊 GitHub Stats
+<img src="./year.svg" width="620" alt="The last year, one character per day"/>
 
-<img 
-  align="left" 
-  alt="GitHub Stats" 
-  height="200" 
-  style="padding-right: 10px;" 
-  src="https://github-readme-stats.vercel.app/api?username=gabrlou&show_icons=true&theme=tokyonight&include_all_commits=true&locale=en" 
-/>
+<pre>
+gabrlou@github:~$ cat README.notes
+# every graphic here is generated, not embedded from anyone's server.
+# ascii.svg is a photo pushed through a character ramp; the stat graphics
+# are drawn by a scheduled action from the GitHub GraphQL API, once a day.
+# they animate with SMIL because GitHub strips scripts from READMEs, and
+# the typeface is JetBrains Mono, subset and inlined as base64.
+#
+# year.svg uses the portrait's character ramp: : + # @, quiet to loud.
 
-<img 
-  align="left" 
-  alt="Top Languages" 
-  height="200" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrlou&theme=tokyonight&layout=compact&custom_title=Top%20Languages&langs_count=5" 
-/>
-
-<br clear="both"/>
--->
+<sub># structure and technique inspired by @andriidrok1's profile</sub>
+</pre>
